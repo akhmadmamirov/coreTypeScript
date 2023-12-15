@@ -18,7 +18,7 @@ Welcome to the TypeScript Syntax Learning repository! This resource is designed 
 
    ```bash
    git clone the repo with ssh/http
-  ``
+  
   
 2. Run the program with ts-node tsfile.ts
 
