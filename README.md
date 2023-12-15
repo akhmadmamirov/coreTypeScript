@@ -6,7 +6,7 @@ Welcome to the TypeScript Syntax Learning repository! This resource is designed 
 
 1. [Arrays](./arrays.ts)
 2. [Classes](./classes.ts)
-3. [Inheritance](./inheritance.ts)
+3. [Inheritance](./inheritances.ts)
 4. [Tuples and Types](./tuples.ts)
 5. [Functions](./annotations/functions.ts)
 6. [Objects](./annotations/objects.ts)
